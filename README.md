@@ -1,6 +1,8 @@
 ## Description  
 This project demonstrates basic form validation using HTML and JavaScript. It ensures that users enter valid input before submitting the form.  
 
+![Project Screenshot](/assets/registration_form.png)
+
 ## Features  
 - Checks for empty fields  
 - Validates email format  
