@@ -1,0 +1,22 @@
+## Description  
+This project demonstrates basic form validation using HTML and JavaScript. It ensures that users enter valid input before submitting the form.  
+
+## Features  
+- Checks for empty fields  
+- Validates email format  
+- Ensures password length  
+- Displays error messages  
+
+## How to Use  
+1. Open `index.html` in a browser.  
+2. Fill in the form fields.  
+3. Click the submit button.  
+4. Errors will be displayed if inputs are invalid.  
+
+## Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
+## Author  
+[Biruk Yoseph (bir-dv)]  
