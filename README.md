@@ -1,7 +1,11 @@
 ## Description  
-This project demonstrates basic form validation using HTML and JavaScript. It ensures that users enter valid input before submitting the form.  
+1) This project demonstrates basic form validation using HTML and JavaScript. It ensures that users enter valid input before submitting the form. 
+
+2) The second task fetches user data from a public API asynchronously and displays each user's name on a web page. It also includes error handling for failed fetch operations.
 
 ![Project Screenshot](/assets/registration_form.png)
+![Project Screenshot](/assets/fetchUserData.png)
+
 
 ## Features  
 - Checks for empty fields  
